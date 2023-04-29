@@ -7,6 +7,7 @@ hash = "59d8aaa08065c8c7fb737ad292932f38a890050028faf27f29d422016901cb5e"
 [[files]]
 file = "config/emi.css"
 hash = "39e6ee4959396c6b02c7ce4c68c17a6c3414d962f2fbc04bc043718453101052"
+preserve = true
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -49,6 +50,11 @@ hash = "7c2836a32bb7b70bdfe9978df53b8497dafbacd88d3c6890eadbf0fd74ac43fa"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "843fefd7cf34bfe36b1fb2b6dc35ddfe44db53e23637d6b2674a7fb4e05e803f"
+metafile = true
+
+[[files]]
 file = "mods/aurorasdecorations.pw.toml"
 hash = "e10c50c96f40adcba8b835e2773d8c003b5d2158eef5f4bed47b493d64655b72"
 metafile = true
@@ -76,6 +82,11 @@ metafile = true
 [[files]]
 file = "mods/botania.pw.toml"
 hash = "2f7747477aa651b59878fb07e7e39a636764c16358e93d8b0ba6afacd4a774a0"
+metafile = true
+
+[[files]]
+file = "mods/building-wands.pw.toml"
+hash = "a372e9db0200f82bb13b7e5b8962a36cc090cfc2afb2ed660ad042f489ea7b7c"
 metafile = true
 
 [[files]]
@@ -136,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "ae0713bd09c71220e0e74616accf50bd1fab1dcff4927e6b6904a6bf6bd4bd98"
+metafile = true
+
+[[files]]
+file = "mods/custom-lan.pw.toml"
+hash = "52aa9ca574c5ab2c2879c71303d83353c249fccd7030c4669f8a5ca09d895e49"
 metafile = true
 
 [[files]]
@@ -289,6 +305,11 @@ hash = "c1b25f7ebcae44420695b4d58b847b283917f517efa8a82951a1b70fed508653"
 metafile = true
 
 [[files]]
+file = "mods/force-crawl.pw.toml"
+hash = "2fedaa5c5fff52d15e428a15ba41dd3a31ac5b7bf80086ba92f05918a420b726"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "20c8a9552dd75cd37682b67479ddfcccf76a6d4a38f60c7023fb33dda5addbc9"
 metafile = true
@@ -326,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "e0699b872ed7917d19bd08e5ed08687be97317fd3d3901b6d8f4d675ae9a0e7f"
+metafile = true
+
+[[files]]
+file = "mods/keybinds.pw.toml"
+hash = "729cbe277aa34adaa8404fed9c4edc10a300a850e2197468dcfc818e6d98010f"
 metafile = true
 
 [[files]]
@@ -404,6 +430,11 @@ hash = "b544ca16a26ffd50bd42c6393dd6a275f82b231f9ded76bce67a5646b49e7137"
 metafile = true
 
 [[files]]
+file = "mods/nbttooltips.pw.toml"
+hash = "9702cbaad9afb347deeedcc5c3e0e8ee21be2b3ca6f4b4336c4039b934c31f33"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1ad1516a4da101c8d83bb5db3c5eebe126c88c92dc16f528bf8a61f94f361dc6"
 metafile = true
@@ -411,6 +442,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "f2d3f09d5f2967011911ded38fbad9f9340c8391fa5363e452bcbd909553559a"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "67e52f1d24affe5295829b38769d1181fb147c4ebc86531fce0fae2d1549ef9a"
 metafile = true
 
 [[files]]
@@ -519,6 +555,11 @@ hash = "0e416b1e8b76aa89379f3fc59f7cdb20b1f530a5cdd300af59378ebab4b9a030"
 metafile = true
 
 [[files]]
+file = "mods/too-many-binds.pw.toml"
+hash = "377dbb87db55f7a1062f8fd67e98ab2547b095fea056bb4d08ad54639ba3fff1"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "f5c33a27f43f5ae4c09152e5bfb3715767db9ce16b9df219472a95779f1dae36"
 metafile = true
@@ -531,6 +572,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "1791317097876ffb626130faf8d26bbfe5abaa3956f115db22a56c44b8c5b646"
+metafile = true
+
+[[files]]
+file = "mods/where-is-it.pw.toml"
+hash = "9a04610015be28c1a16f1b9141ededdf05081d9cf2f9502f02ddf5538bf72eac"
 metafile = true
 
 [[files]]

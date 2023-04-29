@@ -1,0 +1,13 @@
+name = "Force Crawl"
+filename = "forcecrawl-fabric-1.19.x-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8dt4QjOA/versions/h2IiK51w/forcecrawl-fabric-1.19.x-1.0.2.jar"
+hash-format = "sha1"
+hash = "e05c536eb094a327d7707f77a0790da7f086f911"
+
+[update]
+[update.modrinth]
+mod-id = "8dt4QjOA"
+version = "h2IiK51w"
