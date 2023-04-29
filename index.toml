@@ -240,11 +240,6 @@ hash = "cd2fa39f457198956b526cb25295e2687149966c6bdb1dbed6558ea50fb77bdc"
 metafile = true
 
 [[files]]
-file = "mods/dynmap.pw.toml"
-hash = "d16f5c0ee3803aa7a7bdaff64768063b78d401fba60203bbb31256f26da3a4c7"
-metafile = true
-
-[[files]]
 file = "mods/ears.pw.toml"
 hash = "2f293b92df2fed3612b8491e44b5922534d4821cff43507648c60f960418e763"
 metafile = true
