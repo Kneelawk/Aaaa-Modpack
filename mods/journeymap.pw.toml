@@ -6,8 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/WSsgoyGz/journeymap-1.19.2-5.9.5-fabric.jar"
 hash-format = "sha1"
 hash = "3a49964c7a54741a20af9c1a1e3d62e499762083"
+mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "lfHFW1mp"
 version = "WSsgoyGz"

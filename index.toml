@@ -47,17 +47,12 @@ metafile = true
 
 [[files]]
 file = "mods/auto-config-updated-api.pw.toml"
-hash = "1ae8dcbdfa0bd670013aa6aa1d0471f628432293fb8085c403ddf0dac1c59624"
+hash = "7fa5b92e16fd51c64d5ca5993c4e5c9a3d8825db60863504c103aada27d0c55c"
 metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "0170bc5ba39cf73c662117788bd37161b3d2c4c8412914d914991fcbe689e7b1"
-metafile = true
-
-[[files]]
-file = "mods/betterf3.pw.toml"
-hash = "0d77a801d552252d2cf4162ff8ea70cbd7d742f7b2b451a342b7620a93daff2f"
 metafile = true
 
 [[files]]
@@ -311,11 +306,6 @@ hash = "0b9b50e78e1b27e0ae65fb35c76577839e74f99cf81f6d5476a41ba7ebeb7385"
 metafile = true
 
 [[files]]
-file = "mods/inspecio.pw.toml"
-hash = "66b66c549dfe600869593aeae1104661aa95810c62f17dfec93bf2d9a1b839e2"
-metafile = true
-
-[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "a96810f6ccaa2c36e20f675885e96c518354c1d548d415d832c5d8aa7c4ea12a"
 metafile = true
@@ -327,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "91a17412411a9f57e687a0f536f902c043c24ef06571b9f2003ecdb5ee5a4f0c"
+hash = "e0699b872ed7917d19bd08e5ed08687be97317fd3d3901b6d8f4d675ae9a0e7f"
 metafile = true
 
 [[files]]
