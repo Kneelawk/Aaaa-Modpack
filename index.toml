@@ -395,6 +395,11 @@ hash = "a013f02504549963cda319fb57aace6f4ebc279045acd4f0b427c85c8b959446"
 metafile = true
 
 [[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "2f9f9dfc3816fc94e425e671b19c246b3b529aba913a9617bc2fc0e786051126"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "5740740be181272df61e4b8d9248e97d3866c3cffa12ba6430ad07172e76bdab"
 metafile = true
