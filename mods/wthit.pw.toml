@@ -1,0 +1,13 @@
+name = "WTHIT"
+filename = "wthit-quilt-5.15.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/CGA37XlX/wthit-quilt-5.15.2.jar"
+hash-format = "sha512"
+hash = "a9a3b3b6494b80eb5a66899c39aeb80e12b237a7bfed695d869e31c58dc5a92b16e702991b0a4a759020b5d719d487de3093ded31f6b2087b6f91dc5f9596ced"
+mode = ""
+
+[update.modrinth]
+mod-id = "6AQIaxuO"
+version = "CGA37XlX"

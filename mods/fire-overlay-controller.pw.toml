@@ -1,0 +1,13 @@
+name = "Fire Overlay Controller"
+filename = "fireoverlaycontroller-1.0+1.18.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WdpCzbHl/versions/1.0%2B1.18/fireoverlaycontroller-1.0%2B1.18.jar"
+hash-format = "sha512"
+hash = "c2b3afe4bb86357480e13d1bba4f6bd68a417d7be9755c6f7471e2798b3caf861c4fc3c079740948d0aabe9cad3d8bd9e1874e952fb40d2500a7244ed4ede4b1"
+mode = ""
+
+[update.modrinth]
+mod-id = "WdpCzbHl"
+version = "xxEmeW1r"

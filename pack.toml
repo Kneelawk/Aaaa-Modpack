@@ -1,0 +1,17 @@
+name = "Aaaa Modpack"
+author = "Kneelawk"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a2ada2a6f9106cd9e8ae0485838d8f825a8d8fc4f96c5a2121c8d5bae1376280"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.19.0-beta.13"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1"]
+x-packvulcan-acceptable-loaders = ["fabric"]

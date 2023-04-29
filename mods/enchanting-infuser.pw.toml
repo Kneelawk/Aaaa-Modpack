@@ -1,0 +1,13 @@
+name = "Enchanting Infuser"
+filename = "EnchantingInfuser-v4.2.2-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ePv85y52/versions/UaIVbML9/EnchantingInfuser-v4.2.2-1.19.2-Fabric.jar"
+hash-format = "sha512"
+hash = "243eae9c2d2c11d5758d2cac73bf95cdf9c2959c2583b4959665a608643bede519f630e26ec658563ff6218c16d99a1c01ed75b1fc4787c7517ffa37e3e12f8c"
+mode = ""
+
+[update.modrinth]
+mod-id = "ePv85y52"
+version = "UaIVbML9"

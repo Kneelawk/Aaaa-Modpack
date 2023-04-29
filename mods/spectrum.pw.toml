@@ -1,0 +1,13 @@
+name = "Spectrum"
+filename = "spectrum-1.6.10-1.19.2-leisure_time.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/3GcJXR2g/spectrum-1.6.10-1.19.2-leisure_time.jar"
+hash-format = "sha512"
+hash = "7cf2cdba42c61e508801234a6cc53be3da163772c52e3eb9752fe960571f5ea5fca6921b91b230cd32d41439d273acc5ed1ef5425498c4afda19e83148102735"
+mode = ""
+
+[update.modrinth]
+mod-id = "3rc31Hgo"
+version = "3GcJXR2g"

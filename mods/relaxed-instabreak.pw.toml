@@ -1,0 +1,13 @@
+name = "Relaxed Instabreak"
+filename = "relaxed-instabreak-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/476rwulr/versions/66RXxgrI/relaxed-instabreak-1.2.0.jar"
+hash-format = "sha512"
+hash = "b85b6b821ff2065929ee307a2ef99f0714e0b1fb025db051ef35f09a68cb416e2d70633d7491e2de4f9c29b6a9659d8a5ec74fef6325e1bc1cf37d010bdf29e9"
+mode = ""
+
+[update.modrinth]
+mod-id = "476rwulr"
+version = "66RXxgrI"

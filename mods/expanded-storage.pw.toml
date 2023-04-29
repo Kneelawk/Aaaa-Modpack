@@ -1,0 +1,13 @@
+name = "Expanded Storage"
+filename = "expandedstorage-8.2.0-beta.3+1.19.2-quilt.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F56tBubk/versions/pWxn4a4H/expandedstorage-8.2.0-beta.3%2B1.19.2-quilt.jar"
+hash-format = "sha512"
+hash = "3f23d0fedd4bad85aab105f7f6daf08ee5c75af6890b1338adc02034ff6c6d99014cf09093da8cea2f1b5a78a7e4ac37533494d301aa6fe70e9025c8227e3243"
+mode = ""
+
+[update.modrinth]
+mod-id = "F56tBubk"
+version = "pWxn4a4H"
