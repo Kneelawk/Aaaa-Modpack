@@ -710,6 +710,11 @@ hash = "0e416b1e8b76aa89379f3fc59f7cdb20b1f530a5cdd300af59378ebab4b9a030"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "115708f32db501f577bd48fce5b56cd0b4114edbfd2e38bbe4e03466a31220db"
+metafile = true
+
+[[files]]
 file = "mods/too-many-binds.pw.toml"
 hash = "377dbb87db55f7a1062f8fd67e98ab2547b095fea056bb4d08ad54639ba3fff1"
 metafile = true
