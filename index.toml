@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/byg/biomepedia.json5"
+hash = "59d8aaa08065c8c7fb737ad292932f38a890050028faf27f29d422016901cb5e"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "287cc0c867a4c6f1856e5f2e3e3f6a78e22b3143c24cdd0a8f0451736e1dc7f1"
 metafile = true
