@@ -315,6 +315,10 @@ hash = "479a2b8a7c21bbc5bbd7a8b348b29e63b752afc907b5256b26900187e71535bd"
 metafile = true
 
 [[files]]
+file = "mods/expandedstorage-8.2.0-beta.3+1.19.2-quilt.jar"
+hash = "9392e7df3c0b92c08b44df89d0f3e8e669b1497ccd75c35fe588793dff07c7b7"
+
+[[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "0cdafee26a327709b65475370200ba7a41455afd15f649f3c8ba11082a513f00"
 metafile = true
