@@ -455,6 +455,11 @@ hash = "2f9f9dfc3816fc94e425e671b19c246b3b529aba913a9617bc2fc0e786051126"
 metafile = true
 
 [[files]]
+file = "mods/mega-cells.pw.toml"
+hash = "255cde7544dc4bc9f31cdb452b2b0f7f521877cac7878fa1c2ac6cc5779cd0e2"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "5740740be181272df61e4b8d9248e97d3866c3cffa12ba6430ad07172e76bdab"
 metafile = true
@@ -477,6 +482,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "9421355a24881292851803d45726a5aebce4c5a5863793d7d373565b4fceb1eb"
+metafile = true
+
+[[files]]
+file = "mods/minecells.pw.toml"
+hash = "2bfdecc42ca4add87c1beb47cc35e07a9dc85354694c0c38288e33450db3b7ec"
 metafile = true
 
 [[files]]
@@ -537,6 +547,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "850239648ad5dd25c5676ffae231a384964d7b98a52172fd9e7b5923e1c8e769"
+metafile = true
+
+[[files]]
+file = "mods/paradise-lost.pw.toml"
+hash = "a3e2b4163f57d1f711a5be765d0d1a4c7722bcd0f35a141c0f177d59e2ca17d6"
 metafile = true
 
 [[files]]
@@ -685,6 +700,11 @@ hash = "5e4a27c7212dd6372aba5ccfa0cd5c6e09f920a8056ac2cdac83328c320481d9"
 metafile = true
 
 [[files]]
+file = "mods/wunderreich.pw.toml"
+hash = "53bcd805a17252e66674510c6d48baf562ac11def69c411e8f4050c16134e8e7"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "e30db3dc6c5bc19571c7ea3f74f40d7e705766cc24f88b7856a00360927bf0f3"
 metafile = true
@@ -697,6 +717,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "36bc57806a6d997d79767620bc3f0b019e878f337a2655b9cb98a006c4e5d2e8"
 metafile = true
 
 [[files]]

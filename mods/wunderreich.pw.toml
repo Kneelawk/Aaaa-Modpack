@@ -1,0 +1,13 @@
+name = "Wunderreich"
+filename = "wunderreich-3.0.18-quilt-dev.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P6czZwFh/versions/KLurQppN/wunderreich-3.0.18-quilt-dev.jar"
+hash-format = "sha1"
+hash = "74a38a4ca9f8a439de878ab0cd666cd1c1eda94f"
+
+[update]
+[update.modrinth]
+mod-id = "P6czZwFh"
+version = "KLurQppN"
