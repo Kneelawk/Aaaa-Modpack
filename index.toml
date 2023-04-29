@@ -220,6 +220,11 @@ hash = "95f4ae18eb8119b0e110bd02d84516d3fd26c0eb61dabf13ee5aaa0b6e138e57"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "f30fd50b9b1868a1e0aee52b1b56e8c95c254fd760622bfb0fc16a4dcd283f87"
+metafile = true
+
+[[files]]
 file = "mods/ding.pw.toml"
 hash = "d95f2bc77c42d13c6be9a9cb834f7430a08ee880c546cc81bfdc6c041dec0ea9"
 metafile = true
@@ -470,6 +475,11 @@ hash = "f081532078af62b003483fbd52e39d2a99656a7d11f4d3475b9207cc446e2354"
 metafile = true
 
 [[files]]
+file = "mods/lootr-fabric.pw.toml"
+hash = "de55e473653cdd5046f3f79220f6aa9d1cf0eccfe97e8902c72935d0bbb0272e"
+metafile = true
+
+[[files]]
 file = "mods/lovely_snails.pw.toml"
 hash = "a013f02504549963cda319fb57aace6f4ebc279045acd4f0b427c85c8b959446"
 metafile = true
@@ -587,6 +597,11 @@ metafile = true
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "06c01ab2c538cc5f37c184768a2094c07237843122df5e82e9eb371c483ac57c"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "facf640df5f6b8d8723680753c4b7cb6d8cb5db0fbe5649aceb703f66628d4fd"
 metafile = true
 
 [[files]]
