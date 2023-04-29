@@ -305,11 +305,6 @@ hash = "1102addf14e49de1db41069dab39d812e1359b86b3836876f6af600eef7b96d4"
 metafile = true
 
 [[files]]
-file = "mods/expanded-storage.pw.toml"
-hash = "9608f08368300c855e75aa980d01ce5000928a9aeb9d7791482a56da6c7de521"
-metafile = true
-
-[[files]]
 file = "mods/expanded-trident-enchanting.pw.toml"
 hash = "b2dff06f7eb39f9c57ca637b2aff661767112a0cfae75a194049b4ce69e07339"
 metafile = true
