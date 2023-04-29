@@ -25,11 +25,6 @@ hash = "dfe5c9c940c98b774bb06e8518173f7ccdafefc0104b95cbb3b48f6135e2902e"
 metafile = true
 
 [[files]]
-file = "mods/advancementinfo.pw.toml"
-hash = "287cc0c867a4c6f1856e5f2e3e3f6a78e22b3143c24cdd0a8f0451736e1dc7f1"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "46e5d4b8a9acbc66ef0b7749357698110df323e86f4c45db99e951fc8147a363"
 metafile = true
