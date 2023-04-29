@@ -125,6 +125,11 @@ hash = "906e0e2002d3d6a49587cb1fd16b0f918bff8f3b839761268c5cc14a10dd406d"
 metafile = true
 
 [[files]]
+file = "mods/coxinha-utilities.pw.toml"
+hash = "456d2b81b36fc1d049d7422441e2d003bf10ae3f0179ee2729fca647b06d0452"
+metafile = true
+
+[[files]]
 file = "mods/craftify.pw.toml"
 hash = "9b78ec61219c1b2da83f97fcba2b2473236969ee2bf992f5ff58182a332d1a8e"
 metafile = true
@@ -357,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/keybind-fix.pw.toml"
 hash = "48777d535f2dbe76ec2adb6a001ab4442e40e0e403570eb5dc9a49e6957e40a1"
+metafile = true
+
+[[files]]
+file = "mods/kibe.pw.toml"
+hash = "f56efa2d4c1924be62276b7b4e80d6799f12e91e4c0e331c184990cbe7145735"
 metafile = true
 
 [[files]]
