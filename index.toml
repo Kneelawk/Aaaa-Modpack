@@ -100,6 +100,11 @@ hash = "73c1b707adeed63cdd1e7a2813daba8f4361307734ed35f3433a04f989501562"
 metafile = true
 
 [[files]]
+file = "mods/biome-makeover.pw.toml"
+hash = "ffa3d8e61ecea9a5ac51a61c14755501256538cf608c82c54d95ffbf3caed669"
+metafile = true
+
+[[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "ff8facdb2b78b750798464210af280ccc51fe995b9da692a63b33cb006c235ef"
 metafile = true
@@ -117,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/botania.pw.toml"
 hash = "2f7747477aa651b59878fb07e7e39a636764c16358e93d8b0ba6afacd4a774a0"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "ed2e23b38b2e862d187b8303903724995bc3c61ce54a72733f3c3792932c2b86"
 metafile = true
 
 [[files]]
@@ -142,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "9d726bce81a03ff5f0e262845d263c2370e84479dae5e0391a358537932fef5b"
+metafile = true
+
+[[files]]
+file = "mods/completeconfig.pw.toml"
+hash = "a206bc693d41eb72f431abfc5d4556f9e9bf7f0bb6237224b750df85aeddd434"
 metafile = true
 
 [[files]]
@@ -202,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "95f4ae18eb8119b0e110bd02d84516d3fd26c0eb61dabf13ee5aaa0b6e138e57"
+metafile = true
+
+[[files]]
+file = "mods/ding.pw.toml"
+hash = "d95f2bc77c42d13c6be9a9cb834f7430a08ee880c546cc81bfdc6c041dec0ea9"
 metafile = true
 
 [[files]]
@@ -585,6 +605,11 @@ hash = "0dee30cecdf16ce3dcb594088ae9691909500c24157cfae4b1c0a04e1213f13a"
 metafile = true
 
 [[files]]
+file = "mods/reaper.pw.toml"
+hash = "9a10b0ff87f25d4d7210b3e39b8883768bac98d3e00b5b1bbbd1e54c8c1c3821"
+metafile = true
+
+[[files]]
 file = "mods/rebind-all-the-keys.pw.toml"
 hash = "2bd263e58552d33acfd05ac975eb195543b58d8e3bfe1ff9b89356c8f7d936aa"
 metafile = true
@@ -655,6 +680,11 @@ hash = "ac09a1b58424585dc8eb2436b9acde8ac0d7a924e769690c2393ecdd2052da6c"
 metafile = true
 
 [[files]]
+file = "mods/spirit.pw.toml"
+hash = "8705582358b2ca03b2e9505a6edb99a52103f06759179847bde78141b449e3c0"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "a9741e91b42c908a35c7802946cef79bda2c9ac0d3fe9fa9245f147d5e0fe8de"
 metafile = true
@@ -687,6 +717,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "1791317097876ffb626130faf8d26bbfe5abaa3956f115db22a56c44b8c5b646"
+metafile = true
+
+[[files]]
+file = "mods/vitalize.pw.toml"
+hash = "ec561648b8bc606f603a15567e3df5ccdd34e26f61098fa5f4525e102d248f4b"
 metafile = true
 
 [[files]]
