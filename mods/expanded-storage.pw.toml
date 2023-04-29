@@ -1,13 +1,13 @@
 name = "Expanded Storage"
-filename = "expandedstorage-8.2.0-beta.3+1.19.2-quilt.jar"
+filename = "expandedstorage-8.2.0-beta.3+1.19.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/F56tBubk/versions/pWxn4a4H/expandedstorage-8.2.0-beta.3%2B1.19.2-quilt.jar"
+url = "https://cdn.modrinth.com/data/F56tBubk/versions/dGpbVBSA/expandedstorage-8.2.0-beta.3%2B1.19.2-fabric.jar"
 hash-format = "sha512"
-hash = "3f23d0fedd4bad85aab105f7f6daf08ee5c75af6890b1338adc02034ff6c6d99014cf09093da8cea2f1b5a78a7e4ac37533494d301aa6fe70e9025c8227e3243"
+hash = "e7b672f75439b45f42d17839b25007cc2432854edc06d562e5cc652c446f75aff5ac30602332eafc900ff86154401eeb3f9d2d77224b3f235f9d04360c5ec09f"
 mode = ""
 
 [update.modrinth]
 mod-id = "F56tBubk"
-version = "pWxn4a4H"
+version = "dGpbVBSA"
