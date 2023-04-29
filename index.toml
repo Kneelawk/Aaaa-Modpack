@@ -150,6 +150,11 @@ hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "c28d737b72469888790e82be2278b748f99759f68d601f0ae9ed27c342546d5d"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "906e0e2002d3d6a49587cb1fd16b0f918bff8f3b839761268c5cc14a10dd406d"
 metafile = true
