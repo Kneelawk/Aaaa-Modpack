@@ -345,11 +345,6 @@ hash = "dc614d327ef47e253df3e70fb967f53e1e43f9fd412d592220e53360914a4c26"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "e0699b872ed7917d19bd08e5ed08687be97317fd3d3901b6d8f4d675ae9a0e7f"
-metafile = true
-
-[[files]]
 file = "mods/keybinds.pw.toml"
 hash = "729cbe277aa34adaa8404fed9c4edc10a300a850e2197468dcfc818e6d98010f"
 metafile = true
@@ -587,6 +582,16 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "5e4a27c7212dd6372aba5ccfa0cd5c6e09f920a8056ac2cdac83328c320481d9"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "e30db3dc6c5bc19571c7ea3f74f40d7e705766cc24f88b7856a00360927bf0f3"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "2bf9c54b9bbb71cd7c4f01d1432268745a1280912df93979051f4d5aa2d1b553"
 metafile = true
 
 [[files]]
