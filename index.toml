@@ -345,8 +345,8 @@ hash = "dc614d327ef47e253df3e70fb967f53e1e43f9fd412d592220e53360914a4c26"
 metafile = true
 
 [[files]]
-file = "mods/keybinds.pw.toml"
-hash = "729cbe277aa34adaa8404fed9c4edc10a300a850e2197468dcfc818e6d98010f"
+file = "mods/keybind-fix.pw.toml"
+hash = "48777d535f2dbe76ec2adb6a001ab4442e40e0e403570eb5dc9a49e6957e40a1"
 metafile = true
 
 [[files]]
