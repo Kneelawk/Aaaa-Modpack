@@ -10,6 +10,11 @@ hash = "90cdf8be7aaac78df13d4449ea281eea8e05bde5e6c8e541f45fb11b233a333b"
 preserve = true
 
 [[files]]
+file = "mods/advanced-reborn.pw.toml"
+hash = "dfe5c9c940c98b774bb06e8518173f7ccdafefc0104b95cbb3b48f6135e2902e"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "287cc0c867a4c6f1856e5f2e3e3f6a78e22b3143c24cdd0a8f0451736e1dc7f1"
 metafile = true
@@ -167,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "cd2fa39f457198956b526cb25295e2687149966c6bdb1dbed6558ea50fb77bdc"
+metafile = true
+
+[[files]]
+file = "mods/dynmap.pw.toml"
+hash = "d16f5c0ee3803aa7a7bdaff64768063b78d401fba60203bbb31256f26da3a4c7"
 metafile = true
 
 [[files]]
@@ -517,6 +527,11 @@ metafile = true
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "0b5b37b1c8846fa2789900dc284984d689dba44361ad20136ae90bc39f44519d"
+metafile = true
+
+[[files]]
+file = "mods/simple-pipes.pw.toml"
+hash = "bcd86788e41f1d2ae9c3599bc7f5247071815fa7fe53b8523e71bd5ce58857cd"
 metafile = true
 
 [[files]]

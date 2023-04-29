@@ -1,12 +1,12 @@
 name = "Aaaa Modpack"
 author = "Kneelawk"
-version = "1.4.1"
+version = "1.5.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b24c350fe0cc4d3cb638c59c6c4333a6831d6eee1fe532832558f1e17fecddf1"
+hash = "f7397223ce31fb7115546acda8fc8596f1d85ba0f415d903846287808d187243"
 
 [versions]
 minecraft = "1.19.2"
