@@ -10,6 +10,11 @@ hash = "90cdf8be7aaac78df13d4449ea281eea8e05bde5e6c8e541f45fb11b233a333b"
 preserve = true
 
 [[files]]
+file = "mods/additional-structures.pw.toml"
+hash = "a676b0b14ed4ef17d47b7c073d48b2a0ed0284d27f09a6665098d43b66ccc5a3"
+metafile = true
+
+[[files]]
 file = "mods/advanced-reborn.pw.toml"
 hash = "dfe5c9c940c98b774bb06e8518173f7ccdafefc0104b95cbb3b48f6135e2902e"
 metafile = true
@@ -75,8 +80,28 @@ hash = "0170bc5ba39cf73c662117788bd37161b3d2c4c8412914d914991fcbe689e7b1"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "ab6dc95a659eae917ed5afa8ce4c4540be91d3e77290902b37eb6a08f0537f5f"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "9035885fc165866b1634e10b5b9b65ff1335cd9b10d1592d67197c9d8594ebd3"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "73c1b707adeed63cdd1e7a2813daba8f4361307734ed35f3433a04f989501562"
+metafile = true
+
+[[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "ff8facdb2b78b750798464210af280ccc51fe995b9da692a63b33cb006c235ef"
+metafile = true
+
+[[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "309fa9d0ab190059d9a13933db512f36f01ec0b40f37fa6e919ec085c686df9e"
 metafile = true
 
 [[files]]
@@ -116,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "2aaea7d97655ef94d49bade08b4e4436e2ce2cdd08a74ee57758b8996dc40b15"
+hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
 
 [[files]]
@@ -290,6 +315,11 @@ hash = "f9d8e29b62dc141f62d43ab6c61f2ab6ce6a420d57ffc01b13de50e93ea3d1d0"
 metafile = true
 
 [[files]]
+file = "mods/fabric-chisel.pw.toml"
+hash = "0e48c6bd353cf8b4e1bda95e86a2b063d6b625c8100e55e4e7896310cff9e734"
+metafile = true
+
+[[files]]
 file = "mods/fabrictailor.pw.toml"
 hash = "6b2714de2838b4267cab3a48f9ce5a280ecb935979cae640c02900c0be8e51fb"
 metafile = true
@@ -297,6 +327,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "a3d0a34d65636409b0cc2439bdc3f83b24117d0aec6fcfbdceae3420e4703266"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "cc572f7d696a52ea00f58bbc57eb10e4c6f90c808bdbf7b4425b28ad127d5b68"
 metafile = true
 
 [[files]]
@@ -337,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/ijo-pona-poki.pw.toml"
 hash = "800e05ee83d2a17de9f3eb335e56c216b63e23b9baf64089cc22e49d750bb91c"
+metafile = true
+
+[[files]]
+file = "mods/immersive-structures.pw.toml"
+hash = "8cd263da2b2ee411248ffce02ff8653c945aa5fbd55010ef603b14e72498a329"
 metafile = true
 
 [[files]]
@@ -427,6 +467,16 @@ metafile = true
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "04b73a99f49a1fd6ea179bdc7180beb7cb0ca9d0ceec6758020e41cba61202e8"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "9421355a24881292851803d45726a5aebce4c5a5863793d7d373565b4fceb1eb"
+metafile = true
+
+[[files]]
+file = "mods/mo-structures.pw.toml"
+hash = "083e1237dbbc9ff8bd1ea9d4674043d964da40e0e0414830bd9a91a997a0bd28"
 metafile = true
 
 [[files]]
@@ -522,6 +572,11 @@ metafile = true
 [[files]]
 file = "mods/relaxed-instabreak.pw.toml"
 hash = "0c30fe3e25b0122acab3a9c3e991d99e90d4a505eebbc56e4ea776b1d6786654"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "b5bb732948dcabfbb3727d124aa0f2b846bc0b883d98476c96d4badb757a048d"
 metafile = true
 
 [[files]]
