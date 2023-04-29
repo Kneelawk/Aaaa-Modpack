@@ -305,6 +305,11 @@ hash = "1102addf14e49de1db41069dab39d812e1359b86b3836876f6af600eef7b96d4"
 metafile = true
 
 [[files]]
+file = "mods/expanded-storage.pw.toml"
+hash = "1bec5590193bfc0fa9dd7fc3f8fb13193433e0853cd0efd31b94ad0a38082601"
+metafile = true
+
+[[files]]
 file = "mods/expanded-trident-enchanting.pw.toml"
 hash = "b2dff06f7eb39f9c57ca637b2aff661767112a0cfae75a194049b4ce69e07339"
 metafile = true
@@ -313,10 +318,6 @@ metafile = true
 file = "mods/expanded-weapon-enchanting.pw.toml"
 hash = "479a2b8a7c21bbc5bbd7a8b348b29e63b752afc907b5256b26900187e71535bd"
 metafile = true
-
-[[files]]
-file = "mods/expandedstorage-8.2.0-beta.3+1.19.2-quilt.jar"
-hash = "9392e7df3c0b92c08b44df89d0f3e8e669b1497ccd75c35fe588793dff07c7b7"
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
