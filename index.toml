@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftify.pw.toml"
-hash = "9b78ec61219c1b2da83f97fcba2b2473236969ee2bf992f5ff58182a332d1a8e"
+hash = "efaf52f57be50a79189640f0e7b178eb8497c49893dfec883cf12ac6a516301a"
 metafile = true
 
 [[files]]
@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
-hash = "6ea867b4fec62be7d21031235188005c0bdf7fcba9d2147a977fb99b912ed9df"
+hash = "b155e4825310c1bbc065259a400e49b15d9930e21de0a874b03577cfca4ac772"
 metafile = true
 
 [[files]]
@@ -426,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "dc614d327ef47e253df3e70fb967f53e1e43f9fd412d592220e53360914a4c26"
+hash = "ec644a70524673946d8a987bbc4d3f0968c4885f55541b837ee14a366b218d35"
 metafile = true
 
 [[files]]
@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "97e9e88786247963313d5e4aa597a03c5476ddabdf3bc8b9acde3cfed15dad60"
+hash = "4a87215de47827df0ff3c366214ab38925b6951856296af39faf119b6699fdc0"
 metafile = true
 
 [[files]]
@@ -526,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-dynamics.pw.toml"
-hash = "729792daffa9b158f140600fd711daa0290f89866d1acfbeeb6333a7412045a7"
+hash = "b188eb0b3c5e9fb62c6a009362ba7a5c1c808da666f6b00c3f59ff12bcc9706a"
 metafile = true
 
 [[files]]
@@ -596,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/powah.pw.toml"
-hash = "facf640df5f6b8d8723680753c4b7cb6d8cb5db0fbe5649aceb703f66628d4fd"
+hash = "f8e9c08884f8500a49418ca2054b62ba49d0f1a86d5840bde6c82f6edd12ae65"
 metafile = true
 
 [[files]]
