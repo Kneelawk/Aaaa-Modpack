@@ -1,13 +1,13 @@
 name = "Modern Dynamics"
-filename = "Modern-Dynamics-0.5.0-beta.jar"
+filename = "Modern-Dynamics-0.5.1-beta.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fMpvLrnF/versions/E0w8dxFU/Modern-Dynamics-0.5.0-beta.jar"
+url = "https://cdn.modrinth.com/data/fMpvLrnF/versions/OKXkP2QE/Modern-Dynamics-0.5.1-beta.jar"
 hash-format = "sha1"
-hash = "eeb1c3b8299e60a1a2e9ec5dda946b2624cdc384"
+hash = "f31ed3c7778dc5303a331249cc9023270735c922"
 
 [update]
 [update.modrinth]
 mod-id = "fMpvLrnF"
-version = "E0w8dxFU"
+version = "OKXkP2QE"

@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "843fefd7cf34bfe36b1fb2b6dc35ddfe44db53e23637d6b2674a7fb4e05e803f"
+hash = "fdea52d254e5318fe4884301ca865356ade3f685798548aaa23804b25ff01ca1"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "a4cfa605938c84423e69029ba5dd056b54c0197a17164346cfbece283d098295"
+hash = "10841bfee1d7ad02433dd48297d4ba5dd4bae64338e4f599bf4bfe510ddc1b29"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "1bec5590193bfc0fa9dd7fc3f8fb13193433e0853cd0efd31b94ad0a38082601"
+hash = "00a6c5d85f9dc07a2f485c58467bf18adb5923f7d5c5cdac95e3341bdc735c08"
 metafile = true
 
 [[files]]
@@ -321,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "0cdafee26a327709b65475370200ba7a41455afd15f649f3c8ba11082a513f00"
+hash = "75e7dc3d2505f127b6e4ee108b7e03f1252095cdd00606c3624a3286e26d1388"
 metafile = true
 
 [[files]]
@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "843c0e6eb3fda35dbee03c41ea761a1337200378fbbe1feb937f1419b8cc4e0b"
+hash = "8c1574d664b7037c2f3f47755db23b64125fa334b9463a38c47a5ddad5bb1a80"
 metafile = true
 
 [[files]]
@@ -526,12 +526,12 @@ metafile = true
 
 [[files]]
 file = "mods/modern-dynamics.pw.toml"
-hash = "b188eb0b3c5e9fb62c6a009362ba7a5c1c808da666f6b00c3f59ff12bcc9706a"
+hash = "477ed8a20bff38222deee8acc6653fb64370461b6c90b232039034016dd3343b"
 metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "20e1fb50a04a72d2afdd097677bab60033458fb2b8a9fe080c027101de3f2bfb"
+hash = "a77b5b8666a9eb649cf54460f814b3b0c4f24c813224a5d222bb92851252daa4"
 metafile = true
 
 [[files]]
@@ -596,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/powah.pw.toml"
-hash = "f8e9c08884f8500a49418ca2054b62ba49d0f1a86d5840bde6c82f6edd12ae65"
+hash = "e17957ecd2371f4eb4808f87a462dd5995d50ed2932eedeeb80b2ca67930e022"
 metafile = true
 
 [[files]]
@@ -691,7 +691,7 @@ metafile = true
 
 [[files]]
 file = "mods/spirit.pw.toml"
-hash = "8705582358b2ca03b2e9505a6edb99a52103f06759179847bde78141b449e3c0"
+hash = "8f3a781db770fbcdac185c49ea914cceca1b76620b7d5776dc2e7f00669c7676"
 metafile = true
 
 [[files]]
@@ -751,17 +751,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "59d6958578bed8ccf1ef0ea9d51c85dfbc5c56fc596dc214189747c37b88ba17"
+hash = "a927ce89ee2beaff7293bced2f8f8dc02c067066370dc744fd758f46c6146362"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "e30db3dc6c5bc19571c7ea3f74f40d7e705766cc24f88b7856a00360927bf0f3"
+hash = "3813f3748573f44286768414daad7c46a1cfe541df3cd783dba673b8a115454d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "2bf9c54b9bbb71cd7c4f01d1432268745a1280912df93979051f4d5aa2d1b553"
+hash = "e7bd6a81d8a7554d1f785939ba5a9a9038b489eb5236873d7dca0eece7b70b97"
 metafile = true
 
 [[files]]
