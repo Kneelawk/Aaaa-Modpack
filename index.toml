@@ -164,6 +164,11 @@ hash = "a206bc693d41eb72f431abfc5d4556f9e9bf7f0bb6237224b750df85aeddd434"
 metafile = true
 
 [[files]]
+file = "mods/conjuring.pw.toml"
+hash = "91bc23a1e8958b1946acadf7111ac370a31a308f669cc814f99aeeb271626441"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
@@ -221,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "95f4ae18eb8119b0e110bd02d84516d3fd26c0eb61dabf13ee5aaa0b6e138e57"
+metafile = true
+
+[[files]]
+file = "mods/deep-mob-learning-refabricated.pw.toml"
+hash = "860a6a08bb3497ae25ebc828278c135362f2223d01560cb34dc6411037022e6a"
 metafile = true
 
 [[files]]
@@ -404,6 +414,11 @@ hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
 metafile = true
 
 [[files]]
+file = "mods/guard-villagers-fabric.pw.toml"
+hash = "4d4624b3b651fa5fc72918c2ad1fafcfa213e2c26d398f3aaf824b1bdb5757fb"
+metafile = true
+
+[[files]]
 file = "mods/ijo-pona-poki.pw.toml"
 hash = "800e05ee83d2a17de9f3eb335e56c216b63e23b9baf64089cc22e49d750bb91c"
 metafile = true
@@ -546,6 +561,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "bcae356eb0fb1cbb46c1ae76d8cdccc710a299b8041752b020e21dd379138ba4"
+metafile = true
+
+[[files]]
+file = "mods/more-villagers-fabric.pw.toml"
+hash = "ff6a43dcc382e17d47694ada1e704b7023d33a96aac2c78f6651109a332e56b5"
 metafile = true
 
 [[files]]
