@@ -65,6 +65,10 @@ hash = "7c2836a32bb7b70bdfe9978df53b8497dafbacd88d3c6890eadbf0fd74ac43fa"
 metafile = true
 
 [[files]]
+file = "mods/aquifers-be-gone-fabric-1.19.2-1.1.0.jar"
+hash = "d113f211d5430cf9b8d91505163f5262e5741f4286b231f31540b83056c93c1b"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "fdea52d254e5318fe4884301ca865356ade3f685798548aaa23804b25ff01ca1"
 metafile = true
