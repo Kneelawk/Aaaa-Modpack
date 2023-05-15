@@ -423,6 +423,11 @@ hash = "4d4624b3b651fa5fc72918c2ad1fafcfa213e2c26d398f3aaf824b1bdb5757fb"
 metafile = true
 
 [[files]]
+file = "mods/homabric.pw.toml"
+hash = "050ee117ed8c1a36ddf3c836aab29f7cbfd3baa59dca7e025b1290ab31e6c9e6"
+metafile = true
+
+[[files]]
 file = "mods/ijo-pona-poki.pw.toml"
 hash = "800e05ee83d2a17de9f3eb335e56c216b63e23b9baf64089cc22e49d750bb91c"
 metafile = true
