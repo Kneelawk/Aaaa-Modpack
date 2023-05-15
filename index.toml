@@ -123,6 +123,16 @@ hash = "ff8facdb2b78b750798464210af280ccc51fe995b9da692a63b33cb006c235ef"
 metafile = true
 
 [[files]]
+file = "mods/blossomhomes.pw.toml"
+hash = "fbeba21e61a79b1e9098c29b9b55416e0063b0d0f82bd8160384d75b7a614b5a"
+metafile = true
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "7090d32a3a5e9ece6207171b7280816b36f9d5660bbc745d46c5bdbfd2fb7193"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "309fa9d0ab190059d9a13933db512f36f01ec0b40f37fa6e919ec085c686df9e"
 metafile = true
@@ -420,11 +430,6 @@ metafile = true
 [[files]]
 file = "mods/guard-villagers-fabric.pw.toml"
 hash = "4d4624b3b651fa5fc72918c2ad1fafcfa213e2c26d398f3aaf824b1bdb5757fb"
-metafile = true
-
-[[files]]
-file = "mods/homabric.pw.toml"
-hash = "050ee117ed8c1a36ddf3c836aab29f7cbfd3baa59dca7e025b1290ab31e6c9e6"
 metafile = true
 
 [[files]]
