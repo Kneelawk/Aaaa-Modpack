@@ -749,6 +749,11 @@ hash = "9a04610015be28c1a16f1b9141ededdf05081d9cf2f9502f02ddf5538bf72eac"
 metafile = true
 
 [[files]]
+file = "mods/winged.pw.toml"
+hash = "05da828a9b7c05db28ad1e6de50f520bee440a79e312152ae4f474d4fc8b78b0"
+metafile = true
+
+[[files]]
 file = "mods/wiredredstone.pw.toml"
 hash = "75b9c8a4d40a84a9e1026eaa4f96650430dba0dd459a34f43820fa422de6db0a"
 metafile = true
