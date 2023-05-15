@@ -229,11 +229,6 @@ hash = "95f4ae18eb8119b0e110bd02d84516d3fd26c0eb61dabf13ee5aaa0b6e138e57"
 metafile = true
 
 [[files]]
-file = "mods/deep-mob-learning-refabricated.pw.toml"
-hash = "860a6a08bb3497ae25ebc828278c135362f2223d01560cb34dc6411037022e6a"
-metafile = true
-
-[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "f30fd50b9b1868a1e0aee52b1b56e8c95c254fd760622bfb0fc16a4dcd283f87"
 metafile = true
