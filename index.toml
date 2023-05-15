@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "2f7747477aa651b59878fb07e7e39a636764c16358e93d8b0ba6afacd4a774a0"
+hash = "eba4ff5cf670964608c1a348e3090c1406fb2fb478d135aa15b376e7240e9297"
 metafile = true
 
 [[files]]
@@ -760,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "566635fb154d55f00fb116f6c5cdc4848a453f3fcc8a56abb3fc8284fba0fec6"
+hash = "b7f921c060cf99a26b512af6904ce61bfc4df8ed7953a79191c6c044bb5b48d7"
 metafile = true
 
 [[files]]
