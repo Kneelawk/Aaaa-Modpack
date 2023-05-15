@@ -94,6 +94,11 @@ hash = "ab6dc95a659eae917ed5afa8ce4c4540be91d3e77290902b37eb6a08f0537f5f"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "94a27b84c3b189394e73ec4018caf931f00359e016b51b27a063a4ce4a99848e"
+metafile = true
+
+[[files]]
 file = "mods/betterend.pw.toml"
 hash = "9035885fc165866b1634e10b5b9b65ff1335cd9b10d1592d67197c9d8594ebd3"
 metafile = true
