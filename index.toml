@@ -443,6 +443,11 @@ hash = "0b9b50e78e1b27e0ae65fb35c76577839e74f99cf81f6d5476a41ba7ebeb7385"
 metafile = true
 
 [[files]]
+file = "mods/inmis.pw.toml"
+hash = "f33cb6b8cbbbe875d2e70d680658dd69b118aa0bed21e9b046e6958c5f4c5477"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "929d8fcc448b029fd49f0cbe409d3f01f5a4a4ce2efa0d432bff825ab297c7be"
 metafile = true
@@ -755,6 +760,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "f5c33a27f43f5ae4c09152e5bfb3715767db9ce16b9df219472a95779f1dae36"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "53a9fb8cd7ccb14739a20f731cda8dbcd8e400b9117fe06bfeca9e38360f3249"
 metafile = true
 
 [[files]]
