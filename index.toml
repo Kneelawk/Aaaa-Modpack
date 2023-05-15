@@ -24,6 +24,11 @@ hash = "a676b0b14ed4ef17d47b7c073d48b2a0ed0284d27f09a6665098d43b66ccc5a3"
 metafile = true
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "9346ccb54cbef21b2db5ec1830b310fd29c53fdd3f4108cf0cb08ffbe8b4e371"
+metafile = true
+
+[[files]]
 file = "mods/advanced-networking.pw.toml"
 hash = "6244b2c994cc88ef43a43c84307f81d9fed83c99116fbb4d4e04733b5723909c"
 metafile = true
