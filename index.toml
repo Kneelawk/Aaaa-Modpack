@@ -428,6 +428,11 @@ hash = "20c8a9552dd75cd37682b67479ddfcccf76a6d4a38f60c7023fb33dda5addbc9"
 metafile = true
 
 [[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "5ebaa368b8497942a070b4216a182d6850bbd1e6dd19390c34b47b07b5b0887f"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
 metafile = true
@@ -795,6 +800,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "1791317097876ffb626130faf8d26bbfe5abaa3956f115db22a56c44b8c5b646"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-hammers.pw.toml"
+hash = "b4918263643e419327c16c4493991cf62ba37b273b93cd5ed77f5b2ae02e07d2"
 metafile = true
 
 [[files]]
