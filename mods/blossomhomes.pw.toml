@@ -1,6 +1,6 @@
 name = "BlossomHomes"
 filename = "blossom-homes-2.0.6+1.19.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/FXeppAS4/versions/5axDnV3p/blossom-homes-2.0.6%2B1.19.jar"
