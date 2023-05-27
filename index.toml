@@ -227,6 +227,11 @@ hash = "e0219da3f79074d0eb743c1fd349ca39ddd1bb6b61f726330ec5960c32c34493"
 metafile = true
 
 [[files]]
+file = "mods/create-deco-fabric.pw.toml"
+hash = "ae5f3899809a6dfc05d5b123872a49c1ebac752f2057045532307a3944a25f3a"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "8b84018f6cdfa5e2186a3bf52f6fccb9df7a16bc7f460f3a2e78030d9de4ae5a"
 metafile = true
@@ -739,6 +744,11 @@ metafile = true
 [[files]]
 file = "mods/simple-pipes.pw.toml"
 hash = "2d32d7170fa3f0f3b55114f67e5bce7d6ae93e683fc5d282f0007d586fe3977f"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "7b27c87dc4cfd9f15457f3d968ffd0870ec58908392a8af8ab35b8c089781f02"
 metafile = true
 
 [[files]]
