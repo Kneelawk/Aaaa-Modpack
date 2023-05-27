@@ -19,6 +19,10 @@ hash = "90cdf8be7aaac78df13d4449ea281eea8e05bde5e6c8e541f45fb11b233a333b"
 preserve = true
 
 [[files]]
+file = "config/veindigging.json"
+hash = "fc0d33a40ef448b9cd915bdc6e51c5bf5be13ec39afd2d12b5faf8468a92eb82"
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "22caecdda039eb45b56fa27889881ff05adb121702a2be76a6a86c2671f9ad06"
 metafile = true
@@ -230,6 +234,11 @@ metafile = true
 [[files]]
 file = "mods/create-renewable-ores.pw.toml"
 hash = "9b7daa11b5e7a6a508e957faf04b8e751e5e6b4e91c3229a21d4b8b25d9dada8"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "8d03cff468c91772a76e3d52e4b81f8c0a29d0038f408a4be88d857568a2914a"
 metafile = true
 
 [[files]]
@@ -810,6 +819,11 @@ metafile = true
 [[files]]
 file = "mods/vanilla-hammers.pw.toml"
 hash = "067a3461a57557a32c8cb26eb2eff141f69da91053cc6b4b91287ebf9705d0a8"
+metafile = true
+
+[[files]]
+file = "mods/veindigging.pw.toml"
+hash = "115fa96ee7f3a778ef4baf38959846db553604bcc8eae610b6abbf59d7d4caf8"
 metafile = true
 
 [[files]]
