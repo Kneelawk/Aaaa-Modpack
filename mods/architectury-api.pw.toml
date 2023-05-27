@@ -6,8 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/XV72M5Gg/architectury-6.5.82-fabric.jar"
 hash-format = "sha1"
 hash = "5424b42018862b190985832c01c85ce934559c44"
+mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "lhGA9TYQ"
 version = "XV72M5Gg"

@@ -6,8 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/gF3BGWvG/versions/12IIUfD0/open-parties-and-claims-fabric-1.19.2-0.17.3.jar"
 hash-format = "sha1"
 hash = "d5a75582c28dfa6440497b7156dbf891378ecfb2"
+mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "gF3BGWvG"
 version = "12IIUfD0"

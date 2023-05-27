@@ -6,8 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/mxiPijSw/resourcefullib-fabric-1.19.2-1.1.24.jar"
 hash-format = "sha1"
 hash = "aaf8fccd57dabc8bbb7302741a4da2418908e20f"
+mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "G1hIVOrD"
 version = "mxiPijSw"

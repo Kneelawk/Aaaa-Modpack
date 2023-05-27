@@ -6,8 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/codAaoxh/versions/hxPiYWhh/midnightlib-quilt-1.0.0-patch1.jar"
 hash-format = "sha1"
 hash = "7b128ae80b9aeb4d9ae5d901ce6ecaece25b1fd4"
+mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "codAaoxh"
 version = "hxPiYWhh"

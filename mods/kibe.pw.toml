@@ -6,8 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/OvlwmUdC/versions/nfMLEeVC/kibe-1.9.11-BETA%2B1.19.jar"
 hash-format = "sha1"
 hash = "9200e804366d561822c46041ec17ef62c48cec49"
+mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "OvlwmUdC"
 version = "nfMLEeVC"

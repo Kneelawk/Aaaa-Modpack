@@ -6,8 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/lsUDPMOT/versions/6yrVFgGZ/terrestria-5.0.9.jar"
 hash-format = "sha1"
 hash = "c6bb57ad6a14142cbbebf6933cba0524f5c594ba"
+mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "lsUDPMOT"
 version = "6yrVFgGZ"

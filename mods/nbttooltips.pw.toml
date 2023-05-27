@@ -6,8 +6,8 @@ side = "client"
 url = "https://cdn.modrinth.com/data/FZcOyh3v/versions/2SdKGoet/nbttooltips-0.1.4-1.19.x.jar"
 hash-format = "sha1"
 hash = "9faf027dd86eb5e85a98bc9564de7d190347b634"
+mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "FZcOyh3v"
 version = "2SdKGoet"

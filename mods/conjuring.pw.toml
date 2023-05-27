@@ -6,8 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/GriMtaoD/versions/GrBHP1v7/conjuring-1.0.26%2B1.19.jar"
 hash-format = "sha1"
 hash = "2cda8c77ef52147b9bfa7ec0fc9061d3551ffc8a"
+mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "GriMtaoD"
 version = "GrBHP1v7"

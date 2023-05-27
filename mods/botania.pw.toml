@@ -6,8 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/pfjLUfGv/versions/3LPMxFVf/Botania-1.19.2-439-FABRIC.jar"
 hash-format = "sha1"
 hash = "40b61255f8c7f5cc22daf30227c72554b4bf0e31"
+mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "pfjLUfGv"
 version = "3LPMxFVf"

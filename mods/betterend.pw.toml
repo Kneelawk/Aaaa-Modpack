@@ -6,8 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/gc8OEnCC/versions/iIArs4ez/better-end-2.1.5.jar"
 hash-format = "sha1"
 hash = "f2e719a1addee4fbbfc8ca1d07f15ab355672226"
+mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "gc8OEnCC"
 version = "iIArs4ez"

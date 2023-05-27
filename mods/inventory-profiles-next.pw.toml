@@ -6,8 +6,8 @@ side = "client"
 url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/mEdingMG/InventoryProfilesNext-fabric-1.19-1.10.1.jar"
 hash-format = "sha1"
 hash = "919346b96611733389eac82e169f25b4534cf5af"
+mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "O7RBXm3n"
 version = "mEdingMG"

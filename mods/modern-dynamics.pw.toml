@@ -6,8 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/fMpvLrnF/versions/OKXkP2QE/Modern-Dynamics-0.5.1-beta.jar"
 hash-format = "sha1"
 hash = "f31ed3c7778dc5303a331249cc9023270735c922"
+mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "fMpvLrnF"
 version = "OKXkP2QE"

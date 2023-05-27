@@ -6,8 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/9Qdvz1OV/versions/GgKAj06i/minecells-1.4.3.jar"
 hash-format = "sha1"
 hash = "1193ef4c209f4bcb1920a34bbef691fe001382c1"
+mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "9Qdvz1OV"
 version = "GgKAj06i"

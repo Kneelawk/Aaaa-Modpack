@@ -6,8 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/muf0XoRe/versions/Wv3yQoAh/repurposed_structures_quilt-6.3.24%2B1.19.2.jar"
 hash-format = "sha1"
 hash = "70e094988616b2083a91dc302ebc1edd05495393"
+mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "muf0XoRe"
 version = "Wv3yQoAh"

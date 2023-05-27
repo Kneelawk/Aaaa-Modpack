@@ -6,8 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/1vwtOeW2/versions/Y56wX5H0/Reaper-1.0.4.jar"
 hash-format = "sha1"
 hash = "d2fb649526b5c31b3c36e5f048e7637f548a3742"
+mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "1vwtOeW2"
 version = "Y56wX5H0"
