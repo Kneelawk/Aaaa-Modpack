@@ -267,6 +267,11 @@ hash = "8592b32a8d1b19e1c88eee829a2be2ebef49c9f7dbb68a65054e881a19af6d32"
 metafile = true
 
 [[files]]
+file = "mods/dank-storage-fabric.pw.toml"
+hash = "67c358d2b2e8f4262d74c2ae3a25f25006b2ad71610046ccbe171d241d12a824"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "95f4ae18eb8119b0e110bd02d84516d3fd26c0eb61dabf13ee5aaa0b6e138e57"
 metafile = true
