@@ -6,8 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/Xc1WEGPd/appliedenergistics2-fabric-12.9.5.jar"
 hash-format = "sha1"
 hash = "0f3cb7542778ec815810a1865335ef624211281a"
+mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "XxWD5pD3"
 version = "Xc1WEGPd"

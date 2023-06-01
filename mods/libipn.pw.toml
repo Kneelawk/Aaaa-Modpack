@@ -6,8 +6,8 @@ side = "client"
 url = "https://cdn.modrinth.com/data/onSQdWhM/versions/lkqbNIKw/libIPN-fabric-1.19-3.0.1.jar"
 hash-format = "sha1"
 hash = "ded15ede3c98ad2dc0e757037e1e8c3f0f748a63"
+mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "onSQdWhM"
 version = "lkqbNIKw"

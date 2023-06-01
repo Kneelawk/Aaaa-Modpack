@@ -6,8 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/NcUtCpym/versions/xrQzeBh0/XaerosWorldMap_1.30.3_Fabric_1.19.1.jar"
 hash-format = "sha1"
 hash = "0334b764deb7df27f012b2ee15d39f66fd636432"
+mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "NcUtCpym"
 version = "xrQzeBh0"

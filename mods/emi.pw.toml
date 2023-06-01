@@ -6,8 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/yTEBSR8Y/emi-1.0.0%2B1.19.2%2Bfabric.jar"
 hash-format = "sha1"
 hash = "84dd322884fe7dbfcdfe4eae508431894fedea2b"
+mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "fRiHVvU7"
 version = "yTEBSR8Y"

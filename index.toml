@@ -23,6 +23,18 @@ file = "config/veindigging.json"
 hash = "fc0d33a40ef448b9cd915bdc6e51c5bf5be13ec39afd2d12b5faf8468a92eb82"
 
 [[files]]
+file = "installers/Aaaa-server.tar.gz"
+hash = "14bef04b1bd78bb6405f502b1706b6adc13aeff1e0fcecf497c36134b62c7d86"
+
+[[files]]
+file = "installers/Aaaa-server.zip"
+hash = "8ec9a1ea13296bfcaa64c1f516b599985d20ebe46b1416dd4099a8f24d23b244"
+
+[[files]]
+file = "installers/Aaaa.zip"
+hash = "8cae4df2d21697bfb0a3b2b6dfbb141ff87e3253fbde54ec732f38bd6d4ed208"
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "22caecdda039eb45b56fa27889881ff05adb121702a2be76a6a86c2671f9ad06"
 metafile = true
@@ -49,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "803add80bc2ead224e1795195859e2721d50dd3840d7ce35e592371a87e14624"
+hash = "69acf1c19e9fe53013e7fff61f80c2a6b2a4d610557631fc5990c16af464a2c2"
 metafile = true
 
 [[files]]
@@ -152,6 +164,11 @@ hash = "65354031f26de574aeba078bf0f1ecf4d73625abeccbfd2ac17d40f9f2e3adc0"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "fa7e3e35b3bd888d3185a99d448504f345a608d77343838693804f0345c9d137"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "be9704ab8318d96960b6fabbe82fea92ac97965cd7edc508a6c4f64a9c0089bf"
 metafile = true
@@ -213,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/corgilib.pw.toml"
-hash = "cdfbb6b7cd0f3205e6ba9f77f9a16aff7ebb4c4afc275264e86edd8cef2a9423"
+hash = "222592b8dac3c3aa773cec9566a97ed45c568d9129c0ce0f4b0452197fae5865"
 metafile = true
 
 [[files]]
@@ -228,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco-fabric.pw.toml"
-hash = "ae5f3899809a6dfc05d5b123872a49c1ebac752f2057045532307a3944a25f3a"
+hash = "b8ed7482938e730486d054dbc791ca8dccacbcbdfc0c3b74a6e2d0567ad87ebb"
 metafile = true
 
 [[files]]
@@ -243,12 +260,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "8d03cff468c91772a76e3d52e4b81f8c0a29d0038f408a4be88d857568a2914a"
+hash = "97edceba65006e51576713b7b673f0461b93c34f01c97eb115b128d84761bdb5"
 metafile = true
 
 [[files]]
 file = "mods/create-track-map.pw.toml"
-hash = "4b74d44c2456358257d7f5728a012bd3dbc1a761350c1fd169fc5e401c80cbb7"
+hash = "4bd535599e2c347a113f9eb7a388fa9e31d39415230eb50ad68b866733bdeb48"
 metafile = true
 
 [[files]]
@@ -268,7 +285,17 @@ metafile = true
 
 [[files]]
 file = "mods/dank-storage-fabric.pw.toml"
-hash = "67c358d2b2e8f4262d74c2ae3a25f25006b2ad71610046ccbe171d241d12a824"
+hash = "e3d87364ada6ee9ce36ee74247911a1af171b2363de92dc83e4e00d366c992e7"
+metafile = true
+
+[[files]]
+file = "mods/dark-enchanting.pw.toml"
+hash = "f2672756e61bd987811360a08aa46b678baf5cddf94a302512391254b141ebe5"
+metafile = true
+
+[[files]]
+file = "mods/dark-utilities.pw.toml"
+hash = "10ae3caacc4517a54eab1d5c07bb824153557c13b8955751ce9c3ee12cbe7672"
 metafile = true
 
 [[files]]
@@ -313,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "1a5bc0f47d0a1dec0c0c68f193470758dc81afd44a40d5805b61869e4fd93ab7"
+hash = "a455bf86bc6b3836a51a41c9a934a958f2334fcea3e815ed5c1be8a7912037d4"
 metafile = true
 
 [[files]]
@@ -543,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "b5511d0f86685879fc69cdf6a9ff991054cc9b25ef0a88855f1e259d32edcbee"
+hash = "7e6cdde5c49efb7565a6927fd818d12ae67f9785f605c1e6aac83a7403d63f94"
 metafile = true
 
 [[files]]
@@ -613,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "623d0bcc2bdad33dca932608c5bb7025f381c747ed3c2799fbaac2404e770670"
+hash = "1379f33fc081ca7152cf2a4f4084e9af2ab22a73c884e49f9930080e05505a0d"
 metafile = true
 
 [[files]]
@@ -682,6 +709,11 @@ hash = "06c01ab2c538cc5f37c184768a2094c07237843122df5e82e9eb371c483ac57c"
 metafile = true
 
 [[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "e45a5f9fe3d6400fb4c70a25dddb811a6ffa9566963f93a2f574e6e0c3c248c1"
+metafile = true
+
+[[files]]
 file = "mods/powah.pw.toml"
 hash = "ba7b4140d6f7929aed680e50ecd1e37bc451e1c2d03c1dc65dc752e79f60e36a"
 metafile = true
@@ -742,6 +774,11 @@ hash = "5d7f96ec48e310b871daad390a22f38955b786f03fb789ac00b514edb8bb1bd1"
 metafile = true
 
 [[files]]
+file = "mods/runelic.pw.toml"
+hash = "3742ad9dcce53945afaa0c85a58e8ebe35052395e22c3a1d53e44e7a14bfdeae"
+metafile = true
+
+[[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "0b5b37b1c8846fa2789900dc284984d689dba44361ad20136ae90bc39f44519d"
 metafile = true
@@ -753,7 +790,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "7b27c87dc4cfd9f15457f3d968ffd0870ec58908392a8af8ab35b8c089781f02"
+hash = "ea563da24fb52a6c3db67cb5f10c9a3af6ec5e4f4622f47a3aeca04c554844d8"
 metafile = true
 
 [[files]]
@@ -778,7 +815,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "2e7f3e34995b8b84ba09a62637b856c568bbe6f79ea673dbc83ddd22be211ab3"
+hash = "bf7af6243b1f765ea6257df03ad096fc77ba359297b2055d682904e503e25c5d"
 metafile = true
 
 [[files]]
@@ -838,7 +875,7 @@ metafile = true
 
 [[files]]
 file = "mods/veindigging.pw.toml"
-hash = "115fa96ee7f3a778ef4baf38959846db553604bcc8eae610b6abbf59d7d4caf8"
+hash = "42d067b8ea6b5dca5d57f8dc33bf553b0072af9433eefb5200cc3c44bf2b27f4"
 metafile = true
 
 [[files]]
@@ -872,12 +909,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "7a0617ab787d563878cb887499cadaa905f1ea8e577a16740f9a632a0f2e77c0"
+hash = "04efff27ee378cf0a53dd5a6537d79e0e30f0026797e5dcf3d0414a1659b1c70"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "92fabf6009485130edf43bd6dbef2b5bb093d6b90c386f8a2fb3cac12b785d38"
+hash = "9715597c303943895ee93c433babb9f0fa580a1ee872f9a40771e77fc1b96023"
 metafile = true
 
 [[files]]
