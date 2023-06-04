@@ -23,18 +23,6 @@ file = "config/veindigging.json"
 hash = "fc0d33a40ef448b9cd915bdc6e51c5bf5be13ec39afd2d12b5faf8468a92eb82"
 
 [[files]]
-file = "installers/Aaaa-server.tar.gz"
-hash = "14bef04b1bd78bb6405f502b1706b6adc13aeff1e0fcecf497c36134b62c7d86"
-
-[[files]]
-file = "installers/Aaaa-server.zip"
-hash = "8ec9a1ea13296bfcaa64c1f516b599985d20ebe46b1416dd4099a8f24d23b244"
-
-[[files]]
-file = "installers/Aaaa.zip"
-hash = "8cae4df2d21697bfb0a3b2b6dfbb141ff87e3253fbde54ec732f38bd6d4ed208"
-
-[[files]]
 file = "mods/addadd.pw.toml"
 hash = "22caecdda039eb45b56fa27889881ff05adb121702a2be76a6a86c2671f9ad06"
 metafile = true
@@ -100,7 +88,7 @@ hash = "b98fcc34ebc611e825ecad0bc17291c71fe9f76714099bad01806b350dc7a5e8"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6a094eaf5f54d1a520327746e6ecb1cab8754949e8cad551f8dfec985de73dd3"
+hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
 
 [[files]]
@@ -335,12 +323,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "b003d88b41e8457cd827f56f9e4d2223fe1259c924d4cb7e109180ff34c7936b"
+hash = "8f7e061bcc172caeaf207c072cb4fe91982db1f193a2490b8d4cd0d0247c9649"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "a455bf86bc6b3836a51a41c9a934a958f2334fcea3e815ed5c1be8a7912037d4"
+hash = "0095de6d3525f5d5685df3c5476b09cf2a0fab26c755dac2692e79ee49e2ecaa"
 metafile = true
 
 [[files]]
@@ -375,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "0e05f451e4d834c642623f69cc92c9b0e7d8168856a925e3b3f06ea1f28f4991"
+hash = "2a6e243aabbad7c6bb23561a4f4572403a06e41b7cbcc94282eeae899d0e54a6"
 metafile = true
 
 [[files]]
@@ -405,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "33ae5101a53219305dc95affce864f2dd3c80df4fef4d22557739251862ca563"
+hash = "98f5576580a387f107258777640b76ec45096b662d22c75821ff3510a1a188d4"
 metafile = true
 
 [[files]]
@@ -480,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwaystones.pw.toml"
-hash = "3eb7768122288a9e93a96388a7ec21864ace71d7dfb566e93db9ffd9dc556fd0"
+hash = "577d6d70b5a7ab61e454ac05d0753bce12726499da97416025285f863308fc89"
 metafile = true
 
 [[files]]
@@ -580,7 +568,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
-hash = "4d8bc655266af0c48f71482e05804ddee2ffc88a7cfe8c9fa63b2005f7aea265"
+hash = "9804acade5a06f2f477e0ef284caf0a2eae02ff9cab2cb79021311e10b2a6c1f"
 metafile = true
 
 [[files]]
@@ -595,7 +583,7 @@ metafile = true
 
 [[files]]
 file = "mods/mega-cells.pw.toml"
-hash = "a33ac9ed99de8a89885f234f1cae88b2f7b3b8c9860b5fc7b6f6e9b7fe928517"
+hash = "34d34814922f37729c6cd0cf63faebbad90994725082def55945f780b5d3b34a"
 metafile = true
 
 [[files]]
@@ -635,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-dynamics.pw.toml"
-hash = "91cf93580c227524da70eab1a8a60d16bff66c8b66aa593b343650ebe4b2ecff"
+hash = "ef817d9ec68600d4deae639014770e9d6e165bbc91eeef56e13adc3075e3aa6c"
 metafile = true
 
 [[files]]
@@ -790,7 +778,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "ea563da24fb52a6c3db67cb5f10c9a3af6ec5e4f4622f47a3aeca04c554844d8"
+hash = "2c701c51fb6f2416cb843d0ec2db98bef626c49af44d3f917d89f85db95a4de8"
 metafile = true
 
 [[files]]
@@ -815,7 +803,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "bf7af6243b1f765ea6257df03ad096fc77ba359297b2055d682904e503e25c5d"
+hash = "fa00b138bb839479a27f6990753d7205d9fc47239ad55d673442262ac3da2aca"
 metafile = true
 
 [[files]]
@@ -875,7 +863,7 @@ metafile = true
 
 [[files]]
 file = "mods/veindigging.pw.toml"
-hash = "42d067b8ea6b5dca5d57f8dc33bf553b0072af9433eefb5200cc3c44bf2b27f4"
+hash = "65df5419a6d830cb89eddb1d8cd928d03261d79ddbe1f3ee2e986c1d6c06b8f0"
 metafile = true
 
 [[files]]
