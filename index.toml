@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/adorn.pw.toml"
-hash = "2ba9d826195214477f07138d56424970d95512e536d8c0312542f41bc2b9a836"
+hash = "0aa7e85b6c0cf8cc425a37350306f62b6dd119b3f384132ff3aa2e1141969251"
 metafile = true
 
 [[files]]
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "42f4675a62fcad9f9e862ec836f51de0ea2886b0542bb7b023a80b8ce224100a"
+hash = "b943c4ec18d58caccc9427a80fc0520eb3d47fcfadc2d58ab665b7c5a7423891"
 metafile = true
 
 [[files]]
@@ -786,7 +786,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "2c701c51fb6f2416cb843d0ec2db98bef626c49af44d3f917d89f85db95a4de8"
+hash = "51de27d220eda6aa82123303065af7bfef65c8bdd90f2191ebf697a9a7e99592"
 metafile = true
 
 [[files]]
