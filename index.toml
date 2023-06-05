@@ -19,6 +19,10 @@ hash = "90cdf8be7aaac78df13d4449ea281eea8e05bde5e6c8e541f45fb11b233a333b"
 preserve = true
 
 [[files]]
+file = "config/fwaystones/config.json5"
+hash = "a83abf51980750e3081a375fdd0fe8cca154e17bef2c7fcc9d6980000b7f751e"
+
+[[files]]
 file = "config/veindigging.json"
 hash = "fc0d33a40ef448b9cd915bdc6e51c5bf5be13ec39afd2d12b5faf8468a92eb82"
 
