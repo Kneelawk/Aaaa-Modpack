@@ -31,6 +31,34 @@ file = "config/veindigging.json"
 hash = "fc0d33a40ef448b9cd915bdc6e51c5bf5be13ec39afd2d12b5faf8468a92eb82"
 
 [[files]]
+file = "mods/Bookshelf-Fabric-1.19.2-16.1.9.jar"
+hash = "0350a8fe87afea0e2985f3d8ef83956c91395772b74a40ac1f673f1ac2453aa5"
+
+[[files]]
+file = "mods/Controlling-fabric-1.19.2-10.0+7.jar"
+hash = "580230581160eead4719d51d5b70e39bf7a1207f956e8a74bf9a56763607f263"
+
+[[files]]
+file = "mods/DarkUtilities-Fabric-1.19.2-13.1.6.jar"
+hash = "f5f52950ce54649f112642999aea276a1338a7e998fac486a4d3df5aaaa6a1fb"
+
+[[files]]
+file = "mods/PigPen-Fabric-1.19.2-11.1.2.jar"
+hash = "5e8756f92b95c4db750ade01046ca1d87d4ba22a8878062ef37ccd7b3e495a24"
+
+[[files]]
+file = "mods/Runelic-Fabric-1.19.2-14.1.3.jar"
+hash = "79ca6e77b5672268e1792b6b7b20d7f0b7797bfa97dc8478b4490a6c5348f93f"
+
+[[files]]
+file = "mods/Steam_Rails-1.2.6+fabric-mc1.19.2.jar"
+hash = "2ace1418a67209d36379c80d4e9b3570f1ee577e38d4d3a27c3690456fc0838e"
+
+[[files]]
+file = "mods/TechReborn-5.4.0.jar"
+hash = "1a02d3d31598d6af4d12782552db57056df1c73aeb1f271ac82f1e930a6dcf8c"
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "22caecdda039eb45b56fa27889881ff05adb121702a2be76a6a86c2671f9ad06"
 metafile = true
@@ -105,9 +133,8 @@ hash = "e10c50c96f40adcba8b835e2773d8c003b5d2158eef5f4bed47b493d64655b72"
 metafile = true
 
 [[files]]
-file = "mods/auto-config-updated-api.pw.toml"
-hash = "7fa5b92e16fd51c64d5ca5993c4e5c9a3d8825db60863504c103aada27d0c55c"
-metafile = true
+file = "mods/autoconfig1u-3.4.0.jar"
+hash = "18cbb54f13984bc7f3047777bbbb342515f64b43de5c0e725fe670ddb9c2db25"
 
 [[files]]
 file = "mods/badpackets.pw.toml"
@@ -157,11 +184,6 @@ metafile = true
 [[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "65354031f26de574aeba078bf0f1ecf4d73625abeccbfd2ac17d40f9f2e3adc0"
-metafile = true
-
-[[files]]
-file = "mods/bookshelf.pw.toml"
-hash = "fa7e3e35b3bd888d3185a99d448504f345a608d77343838693804f0345c9d137"
 metafile = true
 
 [[files]]
@@ -220,11 +242,6 @@ hash = "b4e5127963f3737c9000ee54be194616c56df34d0fe96754a78eea2148fcecd1"
 metafile = true
 
 [[files]]
-file = "mods/controlling.pw.toml"
-hash = "677569b230858b0d337f95c8351b2c5fa264c82520a61de69c0670c7fc347ff9"
-metafile = true
-
-[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "222592b8dac3c3aa773cec9566a97ed45c568d9129c0ce0f4b0452197fae5865"
 metafile = true
@@ -240,11 +257,6 @@ hash = "e0219da3f79074d0eb743c1fd349ca39ddd1bb6b61f726330ec5960c32c34493"
 metafile = true
 
 [[files]]
-file = "mods/create-deco-fabric.pw.toml"
-hash = "b8ed7482938e730486d054dbc791ca8dccacbcbdfc0c3b74a6e2d0567ad87ebb"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "8b84018f6cdfa5e2186a3bf52f6fccb9df7a16bc7f460f3a2e78030d9de4ae5a"
 metafile = true
@@ -252,11 +264,6 @@ metafile = true
 [[files]]
 file = "mods/create-renewable-ores.pw.toml"
 hash = "9b7daa11b5e7a6a508e957faf04b8e751e5e6b4e91c3229a21d4b8b25d9dada8"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "97edceba65006e51576713b7b673f0461b93c34f01c97eb115b128d84761bdb5"
 metafile = true
 
 [[files]]
@@ -270,6 +277,10 @@ hash = "5638737dffe769c63236a895b93917079507c90f01303664743985b319d1b3fc"
 metafile = true
 
 [[files]]
+file = "mods/createdeco-1.3.2-1.19.2.jar"
+hash = "1be78c20ae41ef494598bf3b6af2520dc83767561ea5f3c7ba8873ffa9ec00ec"
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "ae0713bd09c71220e0e74616accf50bd1fab1dcff4927e6b6904a6bf6bd4bd98"
 metafile = true
@@ -280,18 +291,12 @@ hash = "8592b32a8d1b19e1c88eee829a2be2ebef49c9f7dbb68a65054e881a19af6d32"
 metafile = true
 
 [[files]]
-file = "mods/dank-storage-fabric.pw.toml"
-hash = "e3d87364ada6ee9ce36ee74247911a1af171b2363de92dc83e4e00d366c992e7"
-metafile = true
+file = "mods/dankstorage-1.19.2-4.3.jar"
+hash = "5a32568816c39c377693feccf13fea0228d0de20f7f1408345d0854e012abb8b"
 
 [[files]]
 file = "mods/dark-enchanting.pw.toml"
 hash = "f2672756e61bd987811360a08aa46b678baf5cddf94a302512391254b141ebe5"
-metafile = true
-
-[[files]]
-file = "mods/dark-utilities.pw.toml"
-hash = "10ae3caacc4517a54eab1d5c07bb824153557c13b8955751ce9c3ee12cbe7672"
 metafile = true
 
 [[files]]
@@ -485,9 +490,8 @@ hash = "ef5df7870a11558e14e6952bd6e165a87fbb832db4a5a81d9faa92c0f19738a5"
 metafile = true
 
 [[files]]
-file = "mods/guard-villagers-fabric.pw.toml"
-hash = "5d1c3ecd72a57394d803a5f2fcff6e835e7b0ab7ff94194649169b20f85abc27"
-metafile = true
+file = "mods/guard-villagers-quilt-1.19.2-1.0.16.jar"
+hash = "cabddb07f815ec1f0773ad094b0962b9dbbaffd3a2a63bd59823ef1a9e14caaa"
 
 [[files]]
 file = "mods/ijo-pona-poki.pw.toml"
@@ -505,14 +509,12 @@ hash = "90ca2b51932cd9adc32fd3d0137161d0cb26a5909fcc31c515c1f94d48257207"
 metafile = true
 
 [[files]]
-file = "mods/industrial-revolution.pw.toml"
-hash = "0b9b50e78e1b27e0ae65fb35c76577839e74f99cf81f6d5476a41ba7ebeb7385"
-metafile = true
+file = "mods/indrev-1.15.1-BETA.jar"
+hash = "3828e22a0184056b3bcf2a410aa025fec8ba164587c5c61b519aeeb42af096e6"
 
 [[files]]
-file = "mods/inmis.pw.toml"
-hash = "e9a8593dcc9dc373699eed3319484bf3418fc5fcb4db8f7906767a725a0b3843"
-metafile = true
+file = "mods/inmis-2.7.1-1.19.jar"
+hash = "061694912e6efffdf629b6a305f1051a763d199b07ed2d8d753fc5637fe3812d"
 
 [[files]]
 file = "mods/inspecio.pw.toml"
@@ -575,9 +577,8 @@ hash = "f081532078af62b003483fbd52e39d2a99656a7d11f4d3475b9207cc446e2354"
 metafile = true
 
 [[files]]
-file = "mods/lootr-fabric.pw.toml"
-hash = "9804acade5a06f2f477e0ef284caf0a2eae02ff9cab2cb79021311e10b2a6c1f"
-metafile = true
+file = "mods/lootr-1.19-0.4.26.65.jar"
+hash = "acc90953aaa29cafbc739deb73847a12283380d02cb5d3328df76f1bbb81ab28"
 
 [[files]]
 file = "mods/lovely_snails.pw.toml"
@@ -590,9 +591,8 @@ hash = "69591f09eb9e695c195a72285f1b0344217bbf9bf22460246c9d3fa284624d1c"
 metafile = true
 
 [[files]]
-file = "mods/mega-cells.pw.toml"
-hash = "34d34814922f37729c6cd0cf63faebbad90994725082def55945f780b5d3b34a"
-metafile = true
+file = "mods/megacells-fabric-2.0.0-beta.11-1.19.2.jar"
+hash = "46b8a6af52b52a8bde0c4891417a945284534d3f4c3d1605201d869a6afe7364"
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
@@ -645,14 +645,13 @@ hash = "bcae356eb0fb1cbb46c1ae76d8cdccc710a299b8041752b020e21dd379138ba4"
 metafile = true
 
 [[files]]
-file = "mods/more-villagers-fabric.pw.toml"
-hash = "fd79dfc5b4b84b099e9171be81596812f2cd62d7c83658dc20e6e02c0949ed4c"
-metafile = true
-
-[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "b544ca16a26ffd50bd42c6393dd6a275f82b231f9ded76bce67a5646b49e7137"
 metafile = true
+
+[[files]]
+file = "mods/morevillagers-fabric-1.19-4.0.2.jar"
+hash = "ce9c6fc2a1c400c67a1898548bb8cc6a911f56e39af012b54d3bd1fc5e215135"
 
 [[files]]
 file = "mods/nbttooltips.pw.toml"
@@ -702,11 +701,6 @@ metafile = true
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "06c01ab2c538cc5f37c184768a2094c07237843122df5e82e9eb371c483ac57c"
-metafile = true
-
-[[files]]
-file = "mods/pig-pen-cipher.pw.toml"
-hash = "e45a5f9fe3d6400fb4c70a25dddb811a6ffa9566963f93a2f574e6e0c3c248c1"
 metafile = true
 
 [[files]]
@@ -770,11 +764,6 @@ hash = "5d7f96ec48e310b871daad390a22f38955b786f03fb789ac00b514edb8bb1bd1"
 metafile = true
 
 [[files]]
-file = "mods/runelic.pw.toml"
-hash = "3742ad9dcce53945afaa0c85a58e8ebe35052395e22c3a1d53e44e7a14bfdeae"
-metafile = true
-
-[[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "0b5b37b1c8846fa2789900dc284984d689dba44361ad20136ae90bc39f44519d"
 metafile = true
@@ -825,18 +814,8 @@ hash = "a9741e91b42c908a35c7802946cef79bda2c9ac0d3fe9fa9245f147d5e0fe8de"
 metafile = true
 
 [[files]]
-file = "mods/techreborn.pw.toml"
-hash = "9401fbe63cd21e8fe4baa2e6a0c73790d11eb12134124c6bb29cd94e760d2b71"
-metafile = true
-
-[[files]]
 file = "mods/terrestria.pw.toml"
 hash = "811239b7fc3dd24dbe3f793dd831b8663ecf1691eed327319f626c22c2b95ce2"
-metafile = true
-
-[[files]]
-file = "mods/the-twilight-forest.pw.toml"
-hash = "b7790a1784cf7719b125273bb6fe2e55480cc2266c6d961e5e6a8ca3564b8ab2"
 metafile = true
 
 [[files]]
@@ -865,9 +844,12 @@ hash = "1791317097876ffb626130faf8d26bbfe5abaa3956f115db22a56c44b8c5b646"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-hammers.pw.toml"
-hash = "067a3461a57557a32c8cb26eb2eff141f69da91053cc6b4b91287ebf9705d0a8"
-metafile = true
+file = "mods/twilightforest-fabric-1.19.2-4.2.357.jar"
+hash = "71f82493e245230e2839e2603f9e20a50db4a6ebceda74006d53ad50ffc3898c"
+
+[[files]]
+file = "mods/vanilla-hammers-3.5.0-1.19.2.jar"
+hash = "824fc633b76b880a8ba44c7be62ca5be086f338f7064856897edf8ae37b9ca2f"
 
 [[files]]
 file = "mods/veindigging.pw.toml"
