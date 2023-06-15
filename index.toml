@@ -84,6 +84,11 @@ hash = "270ea3ab2d0cd785aff44feaf75f3323b382ade44361c83c1c5b0f3a59ca8635"
 metafile = true
 
 [[files]]
+file = "mods/advancements-debug.pw.toml"
+hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "69acf1c19e9fe53013e7fff61f80c2a6b2a4d610557631fc5990c16af464a2c2"
 metafile = true
@@ -679,9 +684,8 @@ hash = "141265e2928584f3800b08d128fd6da556b8354f603d9fd4ce074232931e20fc"
 metafile = true
 
 [[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "a0fca2383c5622ab8e02553cb37dec7a7a38af1f48a5fa20deb19711f2d4659a"
-metafile = true
+file = "mods/open-parties-and-claims-fabric-1.19.2-0.17.6-pre.1+local.jar"
+hash = "d968161859a348fafdc59a99d4657e8f625cf10c93aadc27821b8cec7d9c382a"
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
@@ -769,9 +773,8 @@ hash = "0b5b37b1c8846fa2789900dc284984d689dba44361ad20136ae90bc39f44519d"
 metafile = true
 
 [[files]]
-file = "mods/simple-pipes.pw.toml"
-hash = "2d32d7170fa3f0f3b55114f67e5bce7d6ae93e683fc5d282f0007d586fe3977f"
-metafile = true
+file = "mods/simplepipes-all-0.8.3-pre.1+local.jar"
+hash = "dfe84418656b657c4cfbba863baa6ca8c3e45f037a993521a637b9562ee78726"
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
